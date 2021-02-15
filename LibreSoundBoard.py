@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 LibreSoundBoard
-Copyright (C) 2020  ArisuTheWired
+Copyright (C) 2021  Arisu
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
